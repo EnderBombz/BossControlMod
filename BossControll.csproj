@@ -7,8 +7,8 @@
     <ProjectGuid>{D2DC9EF5-4589-4AD0-A18C-6E5054A0A946}</ProjectGuid>
     <OutputType>Library</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
-    <RootNamespace>AntiRush</RootNamespace>
-    <AssemblyName>AntiRush</AssemblyName>
+    <RootNamespace>BossControll</RootNamespace>
+    <AssemblyName>BossControll</AssemblyName>
     <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <Deterministic>true</Deterministic>
@@ -178,7 +178,7 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="AntiRush.cs" />
+    <Compile Include="BossControll.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
